@@ -1,6 +1,17 @@
 # Dockerized n8n + PostgreSQL + WireGuard Setup
 
-Este repositorio contiene una configuración lista para desplegar una instancia de **n8n**, **PostgreSQL** y **WireGuard** utilizando Docker Compose. Sigue los pasos detallados a continuación para configurar y desplegar este stack correctamente.
+Este repositorio contiene una configuración lista para desplegar una instancia de **n8n**, **PostgreSQL** y **WireGuard** utilizando **Docker Compose**. Sigue los pasos detallados a continuación para configurar y desplegar este stack correctamente.
+
+## ¿Por qué hostear tu propio stack de automatizaciones?
+
+Las automatizaciones se están convirtiendo en el pilar de la productividad en el mundo moderno. Ya sea para negocios, proyectos personales o emprendimientos, un stack propio ofrece las siguientes ventajas:
+
+1. **Control total:** Mantén el control sobre tus datos y procesos, evitando depender de terceros y minimizando riesgos de seguridad.
+2. **Escalabilidad:** Puedes adaptar la infraestructura según tus necesidades específicas sin limitaciones impuestas por servicios externos.
+3. **Ahorro en costos:** Aunque las soluciones SaaS son prácticas, pueden volverse costosas a medida que tu negocio crece. Un stack propio elimina costos recurrentes.
+4. **Flexibilidad:** Personaliza tus flujos de trabajo y ajusta integraciones para satisfacer casos de uso únicos.
+5. **Privacidad:** Al autohospedar tus herramientas, proteges datos sensibles de clientes, procesos internos y otros activos digitales.
+6. **Futuro probado:** Las automatizaciones son esenciales para el crecimiento sostenible en el ámbito personal y empresarial. Hostear tu propio stack garantiza que puedas adaptarte a las demandas futuras con tecnología moderna.
 
 ---
 
